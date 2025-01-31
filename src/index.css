@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Tangerine:wght@400;700&display=swap');
+}
+
+body {
+    /* background-color: black; */
+    cursor: url('/heart.png'), auto;
+}
+
+h1 {
+    font-family: "Tangerine", serif;
+}
+
+h2 {
+    font-family: "Pangolin", sans-serif;
+}
