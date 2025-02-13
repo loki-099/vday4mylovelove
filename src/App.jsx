@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="w-full h-screen bg-[url('/background.jpg')] bg-cover relative overflow-y-hidden">
-      <Blocker/>
+      {/* <Blocker/> */}
       <div className="flex flex-col h-full items-center">
         <h1 className="text-[80px] font-bold text-white text-center leading-none pt-28">
           Happy Valentine’s Day to my love,<br></br>my lovelove, my everything, my baby.
